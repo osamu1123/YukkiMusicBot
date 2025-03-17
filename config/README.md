@@ -1,4 +1,4 @@
-# Yukki Music Bot Configs
+# Osamu Music Bot Configs
 
 Config vars are basically the variables which configure or modify bot to function, which are the basic necessities of plugins or code to work. You have to set the proper mandatory vars to make it functional and to start the basic feature of bot.
 
@@ -15,7 +15,7 @@ Config vars are basically the variables which configure or modify bot to functio
 5. `LOG_GROUP_ID` : You'll need a Private Group ID for this. Supergroup Needed with id starting from -100 
 6. `MUSIC_BOT_NAME` : A name for your Music bot.
 7. `OWNER_ID` : Your Owner ID for managing your bot.
-8. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@YukkiStringBot](http://t.me/YukkiStringBot) in Telegram.
+8. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@osamumusic_bot](http://t.me/@osamumusic_Bot) in Telegram.
 
 
 ## Non-Mandatory Vars
